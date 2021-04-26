@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'CustomTextLink_Example' do
+  pod 'CustomTextLink', :path => '../'
+
+  target 'CustomTextLink_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
