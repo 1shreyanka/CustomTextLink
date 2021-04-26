@@ -1,0 +1,16 @@
+PODS:
+  - CustomTextLink (0.1.0)
+
+DEPENDENCIES:
+  - CustomTextLink (from `../`)
+
+EXTERNAL SOURCES:
+  CustomTextLink:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomTextLink: fec6d8047074ae2fcee1b794083cac89895ac8fb
+
+PODFILE CHECKSUM: ed59c62f816a0b4a4f37f5e070be9512793868ee
+
+COCOAPODS: 1.10.1

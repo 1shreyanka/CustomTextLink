@@ -1,0 +1,6 @@
+framework module Pods_CustomTextLink_Tests {
+  umbrella header "Pods-CustomTextLink_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
